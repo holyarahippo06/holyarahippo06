@@ -1,12 +1,13 @@
-# Holy AraHippo
+# Welcome to My GitHub Page!
 
-Age: 18</br>
-Gender: Male</br>
-Ethnicity: Caucasian</br>
-Nationality: German</br>
-Favorite TV-Show: Doctor Who</br>
-</br>
+**About Me**
+- **Age:** 18
+- **Gender:** Male
+- **Ethnicity:** Caucasian
+- **Nationality:** German
+- **Favorite TV Show:** Doctor Who
 
-*What do I do?* </br>
-I mainly attend afternoon classes or fuck around and find out, causing some projects to spring to life. </br>
-But I also try to improve each time and create something better each time. </br>
+**What do I do?** </br>
+I'm currently focused on attending afternoon classes and exploring new ideas that lead to exciting projects. My goal is to continuously improve with each endeavor, striving to create something even better every time.
+
+Join me on this journey of learning, experimenting, and developing innovative solutions!
