@@ -1,7 +1,7 @@
 # Welcome to My GitHub Page!
 
 **About Me**
-- **Age:** 18
+- **Age:** 19
 - **Gender:** Male
 - **Ethnicity:** Caucasian
 - **Nationality:** German
